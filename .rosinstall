@@ -14,3 +14,7 @@
     local-name: franka_ros
     uri: https://github.com/mfkenson/franka_ros.git
     version: simulation
+- git:
+    local-name: ros_controllers
+    uri: https://github.com/ros-controls/ros_controllers.git
+    version: noetic-devel
