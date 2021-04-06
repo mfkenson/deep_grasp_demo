@@ -6,11 +6,11 @@
     local-name: moveit_task_constructor
     uri: https://github.com/mfkenson/moveit_task_constructor.git
     version: pr-deep_grasp_stage
- - git:
+- git:
     local-name: panda_moveit_config
     uri: https://github.com/mfkenson/panda_moveit_config.git
     version: melodic-devel
- - git:
+- git:
     local-name: franka_ros
     uri: https://github.com/mfkenson/franka_ros.git
     version: simulation
